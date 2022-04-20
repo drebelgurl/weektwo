@@ -1,0 +1,14 @@
+body{
+    *background-color: grey;
+}
+/*center div on page */
+div{
+    /* to center a div, we have to change its dimensions i.e width and height */
+    width: 640px;
+    height: 700px;
+    /* change the margin properties to zero and auto */
+    margin: 0 auto;
+    /*  border: 1px solid red; */
+
+}
+
